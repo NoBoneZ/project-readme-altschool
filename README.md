@@ -4,6 +4,14 @@ This repository contains the source code and complete instructions for deploying
 
 ---
 
+
+## 📸 Screenshot
+
+![Landing Page Screenshot](./screenshot.png)
+
+---
+
+
 ## 🖥️ Server Setup
 
 **Cloud Provider:** Amazon Web Services (AWS)  
