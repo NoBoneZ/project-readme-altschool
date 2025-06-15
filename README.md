@@ -158,7 +158,7 @@ sudo tail -f /var/log/nginx/access.log
 
 ### Test Configuration:
 ```bash
-curl -I http://{{server_ip}}/
+curl -vv http://13.60.246.21/
 ```
 
 ---
